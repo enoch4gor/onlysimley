@@ -9,7 +9,7 @@ const IMAGES = [
     { id: 5, before: "/Image/5/5-Before1.jpg", after: "/Image/5/5-After1.jpg" },
     { id: 6, before: "/Image/6/6-Before1.jpg", after: "/Image/6/6-After1.jpg" },
     { id: 7, before: "/Image/7/7-Before1.jpg", after: "/Image/7/7-After1.jpg" },
-    { id: 8, before: "/Image/8/8-Before1.jpg", after: "/Image/8/8-After1.jpg" },
+    { id: 8, before: "/Image/8/8-before1.jpg", after: "/Image/8/8-After1.jpg" },
     { id: 9, before: "/Image/9/9-Before1.jpg", after: "/Image/9/9-After1.jpg" },
 ];
 
