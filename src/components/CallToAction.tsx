@@ -57,11 +57,12 @@ export function CallToAction() {
                     </div>
                 </div>
 
+
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 h-[600px] items-center">
                     {/* Left - Scenic/Gateway */}
                     <motion.div style={{ y: y1 }} className="relative h-[400px] w-full rounded-2xl overflow-hidden shadow-2xl">
                         <Image
-                            src="/Image/10/10-After1.jpg" // Using an atmospheric shot
+                            src="/Image/7/7-After1.jpg" // Using Set 7
                             alt="High Quality Result"
                             fill
                             className="object-cover"
@@ -71,7 +72,7 @@ export function CallToAction() {
                     {/* Center - Detail Shot */}
                     <motion.div style={{ y: y2 }} className="relative h-[300px] w-[80%] mx-auto rounded-2xl overflow-hidden shadow-xl border-4 border-white">
                         <Image
-                            src="/Image/4/4-Before1.jpg" // Detail texture
+                            src="/Image/2/2-After1.jpg" // Using Set 2 (AI Model)
                             alt="Texture Detail"
                             fill
                             className="object-cover"
@@ -81,7 +82,7 @@ export function CallToAction() {
                     {/* Right - Lifestyle/Group */}
                     <motion.div style={{ y: y3 }} className="relative h-[500px] w-full rounded-2xl overflow-hidden shadow-2xl">
                         <Image
-                            src="/Image/8/8-After1.jpg" // Lifestyle shot
+                            src="/Image/8/8-After1.jpg" // Using Set 8
                             alt="Lifestyle Scene"
                             fill
                             className="object-cover"
